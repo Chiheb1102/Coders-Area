@@ -116,7 +116,7 @@ a {
     right: -30px;
 }
 .dots {
-    background-image: url(/CSS/CSS_Templates_And_Challenges/Elzero_Template_03/Images/dots.png);
+    background-image: url(../Images/dots.png);
     position: absolute;
     width: 204px;
     height: 186px;
@@ -1281,7 +1281,7 @@ a {
     padding-top: var(--main-padding);
     padding-bottom: var(--main-padding);
     position: relative;
-    background-image: url(/CSS/CSS_Templates_And_Challenges/Elzero_Template_03/Images/stats.jpg);
+    background-image: url(../Images/stats.jpg);
     background-size: cover;
 }
 .stats::before {
